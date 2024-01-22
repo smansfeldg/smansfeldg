@@ -1,0 +1,32 @@
+# ¡Hola! 👋 Soy [Tu Nombre]
+
+¡Bienvenido a mi perfil de GitHub! Soy un [tu profesión o campo de interés] apasionado por [temas o tecnologías específicas]. Me encanta aprender y compartir conocimientos con la comunidad.
+
+## Sobre mí
+
+- 🌍 Vivo en [Tu Ubicación]
+- 💼 Trabajo como [Tu Puesto de Trabajo/Estudiante]
+- 🎓 Graduado en [Tu Campo de Estudio]
+- 🚀 Actualmente aprendiendo [Tecnologías o Habilidades en Desarrollo]
+
+## Mis proyectos destacados
+
+- 🌟 [Nombre del Proyecto 1](Enlace al Proyecto 1): Una breve descripción del proyecto.
+- 🌟 [Nombre del Proyecto 2](Enlace al Proyecto 2): Otra breve descripción.
+
+## Habilidades
+
+- 💻 [Lista de Tecnologías y Habilidades]
+
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=radical)
+
+## Contacto
+
+¡Conéctate conmigo en otras plataformas!
+
+- [LinkedIn](Enlace a tu perfil de LinkedIn)
+- [Twitter](Enlace a tu perfil de Twitter)
+
+¡Gracias por visitar mi perfil!
