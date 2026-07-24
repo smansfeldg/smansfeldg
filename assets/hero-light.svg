@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-label="Santiago Mansfeld — Senior DevOps Engineer and Full Stack Developer">
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4C5AC7" stop-opacity=".45"/>
+      <stop offset=".40" stop-color="#D0D7DE"/>
+      <stop offset="1" stop-color="#D8DEE4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(120 40) scale(620 460)">
+      <stop stop-color="#4C5AC7" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#4C5AC7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 300) scale(420 320)">
+      <stop stop-color="#4C5AC7" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#4C5AC7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#1F2328" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="gridfade" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity=".9"/>
+      <stop offset=".55" stop-color="#FFFFFF" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".8"/>
+    </linearGradient>
+    <mask id="gridmask">
+      <rect width="1200" height="340" fill="url(#gridfade)"/>
+    </mask>
+    <clipPath id="card">
+      <rect x="1" y="1" width="1198" height="338" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#FFFFFF"/>
+    <rect width="1200" height="340" fill="url(#grid)" mask="url(#gridmask)"/>
+    <rect width="1200" height="340" fill="url(#glow)"/>
+    <rect width="1200" height="340" fill="url(#glow2)"/>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="338.5" rx="18" stroke="url(#border)" stroke-width="1.5"/>
+
+  <!-- status pill -->
+  <g transform="translate(64 52)">
+    <rect width="228" height="30" rx="15" fill="#F6F8FA" stroke="#D0D7DE"/>
+    <circle cx="19" cy="15" r="3.5" fill="#1A7F37">
+      <animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="19" cy="15" r="3.5" fill="#1A7F37" opacity=".5">
+      <animate attributeName="r" values="3.5;9;3.5" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".5;0;.5" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="19.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.6" fill="#57606A">OPEN TO OPPORTUNITIES</text>
+  </g>
+
+  <!-- name + role -->
+  <text x="64" y="160" font-family="Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-1.4" fill="#1F2328">Santiago Mansfeld</text>
+
+  <text x="64" y="202" font-family="Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif" font-size="21" font-weight="600" fill="#4C5AC7">Senior DevOps Engineer<tspan fill="#AFB8C1" font-weight="400"> &#160;/&#160; </tspan><tspan fill="#57606A" font-weight="500">Full Stack Developer</tspan></text>
+
+  <text x="64" y="246" font-family="Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif" font-size="17" fill="#57606A">I build the layer nobody sees &#8212; and care how it feels anyway.</text>
+
+  <line x1="64" y1="272" x2="132" y2="272" stroke="#D0D7DE" stroke-width="1.5"/>
+  <text x="64" y="300" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" letter-spacing=".8" fill="#6E7781">BUENOS AIRES, AR<tspan fill="#D0D7DE">  &#183;  </tspan>6&#215; CLOUD CERTIFIED<tspan fill="#D0D7DE">  &#183;  </tspan>AWS / KUBERNETES / TERRAFORM / REACT</text>
+
+  <!-- pipeline motif -->
+  <g transform="translate(838 148)">
+    <text x="0" y="-46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2" fill="#AFB8C1">CONTINUOUS&#160;DELIVERY</text>
+    <line x1="8" y1="0" x2="292" y2="0" stroke="#E4E8ED" stroke-width="2" stroke-linecap="round"/>
+    <line x1="8" y1="0" x2="292" y2="0" stroke="#4C5AC7" stroke-width="2" stroke-linecap="round" stroke-dasharray="46 238" opacity=".9">
+      <animate attributeName="stroke-dashoffset" values="284;0" dur="3.2s" repeatCount="indefinite"/>
+    </line>
+
+    <g fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.5">
+      <circle cx="8" cy="0" r="6.5"/>
+      <circle cx="102" cy="0" r="6.5"/>
+      <circle cx="197" cy="0" r="6.5"/>
+    </g>
+    <circle cx="292" cy="0" r="7" fill="#4C5AC7"/>
+    <circle cx="292" cy="0" r="7" fill="none" stroke="#4C5AC7" opacity=".6">
+      <animate attributeName="r" values="7;16;7" dur="3.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".6;0;.6" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" letter-spacing="1.1" fill="#6E7781" text-anchor="middle">
+      <text x="8" y="26">COMMIT</text>
+      <text x="102" y="26">BUILD</text>
+      <text x="197" y="26">TEST</text>
+      <text x="292" y="26" fill="#57606A">DEPLOY</text>
+    </g>
+  </g>
+</svg>
