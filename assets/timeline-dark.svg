@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="205" viewBox="0 0 1200 205" fill="none" role="img" aria-label="Career: 2022 IT Administrator at Municipalidad de Lomas de Zamora, 2023 Full Stack Developer and DevOps at RDigital, 2024 Semi-Senior DevOps Engineer at Accusys Technology, 2026 Senior DevOps Engineer at CVC Corp Argentina">
+  <defs>
+    <linearGradient id="track" x1="150" y1="0" x2="1050" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5E6AD2" stop-opacity=".18"/>
+      <stop offset=".55" stop-color="#5E6AD2" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#5E6AD2"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2" fill="#6E7681" text-anchor="middle">
+    <text x="150" y="58">2022</text>
+    <text x="450" y="58">2023</text>
+    <text x="750" y="58">2024</text>
+    <text x="1050" y="58" fill="#5E6AD2">2026 &#8212; NOW</text>
+  </g>
+
+  <line x1="150" y1="95" x2="1050" y2="95" stroke="#21262D" stroke-width="2" stroke-linecap="round"/>
+  <line x1="150" y1="95" x2="1050" y2="95" stroke="url(#track)" stroke-width="2" stroke-linecap="round"/>
+
+  <g fill="#0D1117" stroke="#30363D" stroke-width="2">
+    <circle cx="150" cy="95" r="6.5"/>
+    <circle cx="450" cy="95" r="6.5"/>
+    <circle cx="750" cy="95" r="6.5" stroke="#5E6AD2" stroke-opacity=".55"/>
+  </g>
+  <circle cx="1050" cy="95" r="7.5" fill="#5E6AD2"/>
+  <circle cx="1050" cy="95" r="7.5" fill="none" stroke="#5E6AD2" opacity=".55">
+    <animate attributeName="r" values="7.5;17;7.5" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".55;0;.55" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <g font-family="Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif" text-anchor="middle">
+    <g font-size="15" font-weight="600" fill="#E6EDF3">
+      <text x="150" y="134">IT Administrator</text>
+      <text x="450" y="134">Full Stack Dev / DevOps</text>
+      <text x="750" y="134">Semi-Senior DevOps</text>
+      <text x="1050" y="134">Senior DevOps Engineer</text>
+    </g>
+    <g font-size="12.5" fill="#8B949E">
+      <text x="150" y="155">Municipalidad de Lomas de Zamora</text>
+      <text x="450" y="155">RDigital</text>
+      <text x="750" y="155">Accusys Technology</text>
+      <text x="1050" y="155">CVC Corp Argentina</text>
+    </g>
+  </g>
+
+  <text x="600" y="192" text-anchor="middle" font-family="Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif" font-size="13.5" font-style="italic" fill="#6E7681">From shipping the product &#8212; to running the platform it lives on.</text>
+</svg>
