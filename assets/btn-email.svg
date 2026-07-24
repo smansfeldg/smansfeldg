@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="42" viewBox="0 0 160 42" fill="none" role="img" text-rendering="geometricPrecision" aria-label="EMAIL">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="0" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B222C"/><stop offset="1" stop-color="#12171E"/>
+    </linearGradient>
+  </defs>
+  <rect x=".75" y=".75" width="158.5" height="40.5" rx="10" fill="url(#b)" stroke="#2B3441"/>
+  <g fill="#5E6AD2">
+    <g transform="translate(45.73 13.00) scale(0.66667)">
+      <path d="m15.24 8.998 3.656-3.073v15.81H2.482C1.11 21.735 0 20.609 0 19.223V6.944l7.58 6.38a2.186 2.186 0 0 0 2.871-.042l4.792-4.284h-.003zm-5.456 3.538 1.809-1.616a2.438 2.438 0 0 1-1.178-.533L.905 2.395A.552.552 0 0 0 0 2.826v2.811l8.226 6.923a1.186 1.186 0 0 0 1.558-.024zM23.871 2.463a.551.551 0 0 0-.776-.068l-3.199 2.688v16.653h1.623c1.371 0 2.481-1.127 2.481-2.513V2.824a.551.551 0 0 0-.129-.36z"/>
+    </g>
+  </g>
+  <text x="70.7" y="25.6" font-family="Inter,'SF Pro Display','Segoe UI Variable Display','Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" letter-spacing="1.2" fill="#E6EDF3">EMAIL</text>
+</svg>
