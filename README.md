@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smansfeldg/smansfeldg/main/assets/hero-dark.svg?v=4">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smansfeldg/smansfeldg/main/assets/hero-dark.svg?v=4">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smansfeldg/smansfeldg/main/assets/hero-light.svg?v=4">
   <img alt="Santiago Mansfeld — Senior DevOps Engineer & Full Stack Developer" src="https://raw.githubusercontent.com/smansfeldg/smansfeldg/main/assets/hero-dark.svg?v=4" width="100%">
 </picture>
